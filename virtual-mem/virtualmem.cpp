@@ -1,7 +1,7 @@
 /**
 @FileName: startServer.cpp
 @Description: This file is used for starting the "virtualmem" server.
-@Author: Ankur Upadhyay
+@Author: Ankur Upadhyay, Research Assistant, Computer Science, University at Buffalo
 */
 #include<iostream>
 #include "Server.cpp"
